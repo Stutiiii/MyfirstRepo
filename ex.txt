@@ -1,4 +1,8 @@
 
 Hey Notepad !!!
 Changes done
+<<<<<<< HEAD
 changes in local
+=======
+Change in remote repo.
+>>>>>>> 4eb4c95a69f3f2835a86487a90d03f3d639f23b4
