@@ -2,7 +2,7 @@
 Hey Notepad !!!
 Changes done
 changes in local
-Change in remote repo.
+Change in remote repository
 
 merge request
 
